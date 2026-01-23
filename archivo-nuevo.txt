@@ -4,5 +4,6 @@ y otros cambios más
 
 Estos cambios los hice en el repo de OTRA-PC
 
+Esta es la feature 1
 Esta es la feature 2
 Este es un nuevo commit 
